@@ -25,4 +25,4 @@
 style="padding-right:10px;">
 
 
-#### 📈 [Github Stats](https://github-readme-stats.vercel.app/api?username=aisha-yusuff)
+#### 📈 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aisha-yusuff&show_icons=true&include_all_commits=true)
