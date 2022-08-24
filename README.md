@@ -6,7 +6,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aisha-yusuff/)
 - 📝 Feel free to have a look at my [Github CV](https://github.com/Aisha-Yusuff/CV)!
 
-#### 💻 Languages and Tools:
+### 💻 Languages and Tools:
 
 <img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;">
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;">
@@ -25,4 +25,5 @@
 style="padding-right:10px;">
 
 
-#### 📈 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aisha-yusuff&show_icons=true&include_all_commits=true)
+### 📈 Github Stats
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=aisha-yusuff&show_icons=true&include_all_commits=true)
