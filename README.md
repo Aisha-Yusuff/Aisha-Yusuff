@@ -3,10 +3,8 @@
 - 💻 I'm a Makers Academy Graduate looking for my first Software Developer Role.
 - 🌱 I’m currently learning TypeScript.
 - 🤝 I’m looking to collaborate on new projects.
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: She/Her
-
-## Feel free to have a look at my Github CV!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aisha-yusuff/)
+- 📝 Feel free to have a look at my [Github CV](https://github.com/Aisha-Yusuff/CV)!
 
 #### 💻 Languages and Tools:
 
@@ -27,4 +25,4 @@
 style="padding-right:10px;">
 
 #### 📈 Github Stats
-(https://github-readme-stats.vercel.app/api?username=aisha-yusuff)(https://github.com/aisha-yusuff/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=aisha-yusuff
