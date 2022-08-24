@@ -24,5 +24,5 @@
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"
 style="padding-right:10px;">
 
-#### 📈 Github Stats
-https://github-readme-stats.vercel.app/api?username=aisha-yusuff
+
+#### 📈 [Github Stats](https://github-readme-stats.vercel.app/api?username=aisha-yusuff)
