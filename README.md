@@ -8,7 +8,8 @@
 
 ### 💻 Languages and Tools:
 
-<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;">
+<div> 
+ <img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;">
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;">
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;">
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;">
@@ -23,7 +24,8 @@
 <img align="left" alt="Sinatra" width="26px" src="https://hackr.io/tutorials/learn-sinatra/logo/logo-sinatra?ver=1557508011" style="padding-right:10px;">
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"
 style="padding-right:10px;">
+ </div>
 
 
-### 📈 Github Stats
+<h2> 📈 Github Stats </h2>
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=aisha-yusuff&show_icons=true&include_all_commits=true)
