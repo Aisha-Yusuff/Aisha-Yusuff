@@ -1,10 +1,10 @@
 ## Hi there, I'm Aisha! 👋
 
-- 💻 I'm a [Makers Academy](https://makers.tech/) Graduate looking for my first Software Developer Role.
-- 🌱 I’m currently learning TypeScript.
-- 🤝 I’m looking to collaborate on new projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aisha-yusuff/)
-- 📝 Feel free to have a look at my [Github CV](https://github.com/Aisha-Yusuff/CV)!
+💻 I'm a [Makers Academy](https://makers.tech/) Graduate looking for my first Software Developer Role.
+🌱 I’m currently learning TypeScript.
+🤝 I’m looking to collaborate on new projects.
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aisha-yusuff/)
+📝 Feel free to have a look at my [Github CV](https://github.com/Aisha-Yusuff/CV)!
 
 ## 📈 Github Stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=aisha-yusuff&show_icons=true&include_all_commits=true)
