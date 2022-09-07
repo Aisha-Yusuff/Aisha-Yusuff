@@ -1,4 +1,4 @@
-## Hi, I'm Aisha! 👋
+## Hello, I'm Aisha! 👋
 
 💻 I'm a [Makers Academy](https://makers.tech/) Graduate looking for my first Software Developer Role.
 
