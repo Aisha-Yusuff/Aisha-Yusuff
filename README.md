@@ -2,7 +2,7 @@
 
 💻 I'm a [Makers Academy](https://makers.tech/) Graduate looking for my first Software Developer Role.
 
-🌱 I’m currently learning TypeScript.
+🌱 I’m currently learning Java and TypeScript.
 
 🤝 I’m looking to collaborate on new projects.
 
