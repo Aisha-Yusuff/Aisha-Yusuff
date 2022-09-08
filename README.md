@@ -11,7 +11,7 @@
 📝 Feel free to have a look at my [Github CV](https://github.com/Aisha-Yusuff/CV)!
 
 ## 📈 Github Stats
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=aisha-yusuff&show_icons=true&include_all_commits=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=aisha-yusuff)
 
 
 ## 💻 Languages and Tools:
