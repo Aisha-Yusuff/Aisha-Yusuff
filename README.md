@@ -6,7 +6,7 @@
 
 🤝 I’m looking to collaborate on new projects.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aisha-yusuff/)
+📫 How to reach me: aisha-yusuff@outlook.com and [LinkedIn](https://www.linkedin.com/in/aisha-yusuff/)
 
 📝 Feel free to have a look at my [Github CV](https://github.com/Aisha-Yusuff/CV)!
 
