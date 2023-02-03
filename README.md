@@ -1,8 +1,8 @@
 ## Hello, I'm Aisha! 👋
 
-💻 I'm a [Makers Academy](https://makers.tech/) Graduate looking for my first Software Developer Role.
+💻 I'm a [Makers Academy](https://makers.tech/) Graduate.
 
-🌱 I’m currently learning Java.
+🌱 I’m currently learning Java and Python.
 
 🤝 I’m looking to collaborate on new projects.
 
